@@ -2,9 +2,9 @@
 layout: post
 title: Bluetooth module to enhance an Android App
 image: 2021-01-06-patri-monitoring-hives-post5-ble-and-android-app_TB_v0.8.png
-date: 2021-2-1
+date: 2021-2-3
 type: post
-published: false
+published: true
 status: publish
 category: Embedded systems
 tags: [TrackBees]
