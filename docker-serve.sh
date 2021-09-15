@@ -1,1 +1,1 @@
-docker run -v "$PWD:/usr/src/app" -p 4000:4000 -it jekyll serve $* -H 0.0.0.0
+docker run --rm --volume="$PWD:/srv/jekyll" --publish 4000:4000 jekyll/jekyll jekyll serve
