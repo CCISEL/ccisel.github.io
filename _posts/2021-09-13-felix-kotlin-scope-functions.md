@@ -19,7 +19,7 @@ author:
 
 [Kotlin scope functions](https://kotlinlang.org/docs/scope-functions.html) allow the execution of code blocks in a _richer_ scope, typically with the end goal of making code simpler to write and read.
 
-There are five different scope unctions: `let`, `also`, `with`, `apply`, and `run`.
+There are five different scope functions: `let`, `also`, `with`, `apply`, and `run`.
 They all receive an object and a code block that will have access to that object.
 
 The `with` function is the only one that receives the object as a regular parameter.
