@@ -4,7 +4,7 @@ title:
   en: Introduction to Internet Programming
   pt: Introdução à Programação na Web
 repository: https://github.com/isel-leic-ipw/
-isel: 
+isel:
   en: https://isel.pt/en/leic/introduction-internet-programming
   pt: https://isel.pt/leic/introducao-programacao-na-web
 year: 2
@@ -13,8 +13,7 @@ ects: 6
 professor:
   display_name: José Luís Falcão Cascalheira
 bibliography: |
-  W3C Technical Architecture Group, _Architecture of the World Wide Web, Volume One_,
-http://www.w3.org/TR/webarch/, 2004.
+  W3C Technical Architecture Group, _Architecture of the World Wide Web, Volume One_, http://www.w3.org/TR/webarch/, 2004.
 
   Internet Engineering Task Force (IETF), _Hypertext Transfer Protocol (HTTP/1.1)_, RFC 7230/7231, 2014
 
