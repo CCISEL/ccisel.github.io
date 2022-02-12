@@ -4,9 +4,11 @@ title:
   en: Mobile Device Programming
   pt: Programação em Dispositivos Móveis
 repository: https://github.com/isel-leic-pdm
-isel: https://isel.pt/disciplinas/programacao-em-dispositivos-moveis-leic-pn
+isel:
+  en: https://isel.pt/en/leic/mobile-devices-programming
+  pt: https://isel.pt/leic/programacao-em-dispositivos-moveis
 year: 3
-semester: 1
+semester: 5
 ects: 6
 professor:
   display_name: Paulo Pereira

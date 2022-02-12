@@ -4,9 +4,11 @@ title:
   en: Software Development Techniques
   pt: Técnicas de Desenvolvimento de Software
 repository: https://github.com/isel-leic-tds/
-isel: https://isel.pt/disciplinas/tecnicas-de-desenvolvimento-de-software-leic-pn
+isel:
+  en: https://isel.pt/en/leic/software-development-techniques
+  pt: https://isel.pt/leic/tecnicas-de-desenvolvimento-de-software
 year: 2
-semester: 1
+semester: 3
 ects: 6
 professor:
   display_name: Pedro Alexandre S. C. R. Pereira

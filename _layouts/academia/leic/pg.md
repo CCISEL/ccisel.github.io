@@ -4,7 +4,9 @@ title:
   en: Programming
   pt: Programação
 repository: https://github.com/isel-leic-pg/
-isel: https://isel.pt/disciplinas/programacao-leic-pn
+isel:
+  en: https://isel.pt/en/leic/programming
+  pt: https://isel.pt/leic/programacao
 year: 1
 semester: 1
 ects: 6

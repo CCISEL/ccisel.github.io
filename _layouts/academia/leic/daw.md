@@ -4,9 +4,11 @@ title:
   en: Web Application Development
   pt: Desenvolvimento de Aplicações Web
 repository: https://github.com/isel-leic-daw
-isel: https://isel.pt/disciplinas/desenvolvimento-de-aplicacoes-web-leic-pn
+isel:
+  en: https://isel.pt/en/leic/web-application-development
+  pt: https://isel.pt/leic/desenvolvimento-de-aplicacoes-web
 year: 3
-semester: 1
+semester: 5
 ects: 6
 professor:
   display_name: Pedro M. H. S. Félix

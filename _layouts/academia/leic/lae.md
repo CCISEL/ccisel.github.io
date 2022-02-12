@@ -4,9 +4,11 @@ title:
   en: Languages and Managed Runtimes
   pt: Linguagens e Ambientes de Execução
 repository: https://github.com/isel-leic-ave/
-isel: https://isel.pt/disciplinas/linguagens-e-ambientes-de-execucao-leic-pn
+isel:
+  en: https://isel.pt/en/leic/languages-and-managed-runtimes
+  pt: https://isel.pt/leic/linguagens-e-ambientes-de-execucao
 year: 2
-semester: 2
+semester: 4
 ects: 6
 professor:
   display_name: Miguel Gamboa de Carvalho

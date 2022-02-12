@@ -4,7 +4,9 @@ title:
   en: Algorithms and Data Structures
   pt: Algoritmos e Estruturas de Dados
 repository: https://github.com/isel-leic-aed/
-isel: https://isel.pt/disciplinas/algoritmos-e-estruturas-de-dados-leic-pn
+isel:
+  en: https://isel.pt/en/leic/algorithms-and-data-structures
+  pt: https://isel.pt/leic/algoritmos-e-estruturas-de-dados
 year: 1
 semester: 2
 ects: 6

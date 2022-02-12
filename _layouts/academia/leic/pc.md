@@ -4,9 +4,11 @@ title:
   en: Concurrent Programming
   pt: Programação Concorrente
 repository: https://github.com/isel-leic-pc
-isel: https://isel.pt/disciplinas/programacao-concorrente-leic
-year: 3
-semester: 1
+isel:
+  en: https://isel.pt/en/leic/concurrent-programming
+  pt: https://isel.pt/leic/programacao-concorrente
+year: 2
+semester: 4
 ects: 6
 professor:
   display_name: Pedro M. H. S. Félix

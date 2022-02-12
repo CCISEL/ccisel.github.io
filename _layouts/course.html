@@ -37,9 +37,11 @@ layout: default
                         <a class="github" href="{{ layout.repository }}" target="_blank"><i class="fab fa-github"></i></a>
                     </div>
                     <div class="col-12 col-lg-4">
-                        <a href="{{ layout.isel }}" target="_blank">
-                            {% if page.lang != 'pt' %}Institutional information at ISEL{% else %}Informação Institucional no ISEL{% endif %}
-                        </a>
+                      {% if page.lang != 'pt' %}
+                        <a href="{{ layout.isel.en }}" target="_blank">Institutional information at ISEL</a>
+                      {% else %}
+                        <a href="{{ layout.isel.pt }}" target="_blank">Informação institucional no ISEL</a>
+                      {% endif %}
                     </div>
                 </div>
                 <br>

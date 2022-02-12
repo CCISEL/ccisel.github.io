@@ -4,7 +4,9 @@ title:
   en: Software Laboratory
   pt: Laboratório de Software
 repository: https://github.com/isel-leic-ls
-isel: https://www.isel.pt/en/subjects/software-laboratory-leic
+isel:
+  en: https://isel.pt/en/leic/software-laboratory
+  pt: https://isel.pt/leic/laboratorio-de-software
 year: 2
 semester: 4
 ects: 6
