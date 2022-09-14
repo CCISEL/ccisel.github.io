@@ -17,4 +17,8 @@ bibliography: |
   by A. Soshin. Released in 2018.
   Publisher(s): Packt publishing. ISBN-13: 978-1788998017; ISBN-10: 1788998014.  
 
+  _"Effective Kotlin: Best practices"_
+  by Marcin Moskala. Released in november 2019.
+  Publisher(s): Marcin Moskała. ISBN-13: 978-8395452833; ISBN-10: 8395452837.  
+
 ---
